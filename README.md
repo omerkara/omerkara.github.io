@@ -1,4 +1,4 @@
-# karaomer.github.io Website
+# omerkara.github.io Website
 
 ## Important Notes
 - Please feel free to use any of the content without the permission of the repo owner.
